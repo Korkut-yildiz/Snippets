@@ -85,9 +85,9 @@ void unload(node *linked_list)
     node *ptr = linked_list;
     while (ptr != NULL)
     {
+        node *tmp = tr;
         ptr = ptr->next;
-        free(linked_list);
-        linked_list = ptr;
+        free(tmp);
     }
     ptr = NULL;
 }
