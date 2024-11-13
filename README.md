@@ -1,0 +1,3 @@
+Under any cirscumtances, this repo is not safe to use since I am just a student that has too much free time on their hand. If something goes wrong, which is very likely, I won't be suprised. 
+Oh also I kind of got tired of not being to access the other random stuff I write when I switch my pc thus I put this here. If you see anything interesting here, feel free to take a look...
+I still am a noob though.
