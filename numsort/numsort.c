@@ -1,3 +1,4 @@
+// You can't even imagine how many times I had to edit this snippet after commiting to github due to autosave did not work while I was using vscode... I even had a different filename 
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -23,7 +24,7 @@ int main(int argc, char *argv[])
 {
     if (argc != 3)
     {
-        printf("Usage: ./revision FILE OUTPUTFILE \n");
+        printf("Usage: ./numsort FILE OUTPUTFILE \n");
         return 1;
     }
     node *face = load(argv[1]);
